@@ -1,9 +1,9 @@
 {
   "PayingLength": 1,
   "Paying": [
-    "ZShortPuppy14484"
+    "ShortPuppy14484"
   ],
-  "XShortPuppy14484": {
+  "ShortPuppy14484": {
     "Paid": 0,
     "allowed": true,
     "Email": "chartledev@gmail.com"
