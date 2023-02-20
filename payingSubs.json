@@ -1,7 +1,8 @@
 {
-  "PayingLength": 1,
+  "PayingLength": 2,
   "Paying": [
-    "ShortPuppy14484"
+    "ShortPuppy14484",
+    "PlasmaDragon104"
   ],
   "ShortPuppy14484": {
     "Paid": 0,
