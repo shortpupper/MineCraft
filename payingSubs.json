@@ -1,8 +1,10 @@
 {
-  "PayingLength": 2,
+  "PayingLength": 3,
   "Paying": [
     "ShortPuppy14484",
-    "PlasmaDragon104"
+    "PlasmaDragon104",
+    "PlaneDestroyer"
+    
   ],
   "ShortPuppy14484": {
     "Paid": 0,
